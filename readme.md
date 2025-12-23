@@ -6,17 +6,21 @@ currently focusing on pixel sorting
 
 ## stack
 pxli
-|^
-v|
+
+&uarr; &darr;
+
 ncurses
-|^
-v|
+
+&uarr; &darr;
+
 pxl
-|^
-v|
+
+&uarr; &darr;
+
 pngz
-|^
-v|
+
+&uarr; &darr;
+
 libpng
 
 
