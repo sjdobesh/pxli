@@ -5,7 +5,8 @@ interactive pixel editor
 currently focusing on pixel sorting
 
 ## stack
-pxli 
+
+pxli  
 &uarr; &darr;  
 ncurses  
 &uarr; &darr;  
